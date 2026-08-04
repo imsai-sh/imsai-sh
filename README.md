@@ -5,7 +5,6 @@
 ## 🔗 Find me online
 
 - 个人网站：<a href="https://www.imsai.cc/" target="_blank" rel="noopener noreferrer">imsai.cc</a>
-- 小红书：<a href="https://www.xiaohongshu.com/user/profile/612b732e000000000100b6dd" target="_blank" rel="noopener noreferrer">@sai的万事屋</a>
 
 ## 🤖 Vibe Usage
 
