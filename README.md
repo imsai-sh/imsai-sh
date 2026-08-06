@@ -4,7 +4,7 @@
 
 ## 🔗 Find me online
 
-- 个人网站：<a href="https://www.imsai.cc/" target="_blank" rel="noopener noreferrer">imsai.cc</a>
+- 个人网站：<a href="https://sai.zhuzhiliao.icu/" target="_blank" rel="noopener noreferrer">sai.zhuzhiliao.icu</a>
 
 ## 🤖 Vibe Usage
 
